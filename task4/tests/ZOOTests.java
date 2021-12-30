@@ -3,11 +3,8 @@ package task4.tests;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import task4.cages.*;
 import task4.animals.*;
-
-import java.util.List;
-import java.util.stream.Stream;
+import task4.cages.*;
 
 public class ZOOTests {
     Zoo zoo;
